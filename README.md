@@ -1,4 +1,4 @@
-📊 Superstore Sales Analysis | MySQL + Power BI Dashboard
+📊 Superstore Sales Analysis | MySQL + Power BI Dashboard 
 
 "SQL" (https://img.shields.io/badge/Language-SQL-blue?logo=mysql)
 "Power BI" (https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
