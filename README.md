@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-This is an end-to-end data analytics project using 100+ MySQL queries and Power BI to analyze Superstore sales data and generate actionable business insights.
+This is an end-to-end data analytics project using  MySQL and Power BI to analyze Superstore sales data and generate actionable business insights.
 
 The project includes:
 
