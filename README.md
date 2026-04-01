@@ -1,5 +1,5 @@
 📊 Superstore Sales Analysis | MySQL + Power BI Dashboard 
-
+[Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)[MySQL](https://img.shields.io/badge/mysql-4479A1.svg?
 "SQL" (https://img.shields.io/badge/Language-SQL-blue?logo=mysql)
 "Power BI" (https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
 "Project" (https://img.shields.io/badge/Project-Data%20Analytics-green)
