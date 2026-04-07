@@ -1,4 +1,4 @@
-# 📊 bussiness Sales insights dashboard | MySQL + Power BI Dashboard 
+# 📊 bussiness Sales insights dashboard | MySQL + Power BI 
 
 ---
 
